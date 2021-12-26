@@ -1,1 +1,1 @@
-# react-projects-5-menu
+# React starter project for simple restaurant menu
